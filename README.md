@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bianca.silva@mb.com.br**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
