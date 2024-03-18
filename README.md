@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biancasilva-mb" alt="biancasilva-mb" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Experience Management**
+- 🔭 I’m currently working on **Customer Engagement**
 
 - 🌱 I’m currently learning **Robot Framework , Python and R**
 
-- 🤝 I’m looking for help with **All projets about Experience to Customers**
+- 🤝 I’m looking for help with **All projets about Customer Engagement**
 
 - 💬 Ask me about **Cooking, Finance, Documentation, Anime and Games**
 
